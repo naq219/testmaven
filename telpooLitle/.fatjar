@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Nov 28 09:55:07 ICT 2014
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=TelpooLitle_fat.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
