@@ -15,7 +15,8 @@ buildscript {
         classpath 'com.github.dcendents:android-maven-plugin:1.2'
     }
 }
-
+version = "1.0.0"
+group = "com.telpoo.frame"
 
 
 android {
